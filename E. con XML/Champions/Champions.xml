@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CHAMPIONS>
+   <FINAL>
+      <PARTIDO>
+         <EQUIPO>Amarrosa</EQUIPO>
+         <EQUIPO>Pepe</EQUIPO>
+      </PARTIDO>
+   </FINAL>
+   <SEMIFINAL>
+      <PARTIDO>
+         <EQUIPO>Ueah</EQUIPO>
+         <EQUIPO>Pepe</EQUIPO>
+      </PARTIDO>
+   </SEMIFINAL>
+   <SEMIFINAL>
+      <PARTIDO>
+         <EQUIPO>Madrid</EQUIPO>
+         <EQUIPO>Amarrosa</EQUIPO>
+      </PARTIDO>
+   </SEMIFINAL>
+</CHAMPIONS>
